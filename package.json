@@ -3,15 +3,15 @@
   "version": "1.2.7",
   "description": "The Quill rich-text editor as a React component.",
   "author": "zenoamaro <zenoamaro@gmail.com>",
-  "homepage": "https://github.com/zenoamaro/react-quill",
+  "homepage": "https://github.com/zepedrocm/react-quill",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zenoamaro/react-quill/issues",
+    "url": "https://github.com/zepedrocm/react-quill/issues",
     "email": "zenoamaro@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zenoamaro/react-quill.git"
+    "url": "https://github.com/zepedrocm/react-quill.git"
   },
   "main": "lib/index.js",
   "browser": "lib/index.js",
